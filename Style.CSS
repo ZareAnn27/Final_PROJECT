@@ -1,0 +1,80 @@
+body {
+Background-color:#ffcccc;
+}
+
+.row:after{
+content:"";
+display:table;
+clear:both;
+
+}
+
+#col{
+float: left;
+width:22%;
+padding:5px;
+margin-left:25px;
+border:2px solid white;
+}
+
+#pic1{
+width:100%;}
+#div3
+{
+height:38%;
+border:1px solid white;
+background-color:white;
+margin-top:5px;
+}
+#info {
+font-family:Harrington;
+font-size:18px;
+text-align:center;
+ }
+
+#q1 {
+font-family:Harrington;
+font-size:18px;
+text-align:center;
+ }
+
+#pic2{
+width:92%;
+margin-left:12px;
+}
+ 
+.row2 { 
+border:2px solid white;
+width:97%;
+height:22%;
+margin:20px;
+
+}
+
+.row3 { 
+border:2px solid white;
+height:600px;
+width:97%;
+margin:20px;
+align-item:center;
+
+}
+
+#vid
+{
+margin-left:220px;
+}
+
+a { 
+color:#0040ff;
+text-decoration:none;
+text-align:center;
+font-family:Harrington;
+
+}
+
+a:hover { 
+font-size:20px;
+color:hotpink;
+
+}
